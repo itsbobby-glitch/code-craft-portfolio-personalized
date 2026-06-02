@@ -42,12 +42,7 @@ npm install
 cp .env.example .env.local
 ```
 
-4. Update `.env.local` with your details:
-```
-NEXT_PUBLIC_WHATSAPP_NUMBER=254700000000
-NEXT_PUBLIC_EMAIL=hello@codecraft.ke
-```
-
+4. Update 
 5. Start development server:
 ```bash
 npm run dev
@@ -56,12 +51,6 @@ npm run dev
 6. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Customization Guide
-
-### Update Contact Information
-Edit `app/page.tsx` and update:
-- WhatsApp number in the href
-- Email address
-- Phone number in contact cards
 
 ### Change Colors
 Edit `tailwind.config.ts`:
@@ -156,8 +145,8 @@ code-craft-ke/
 ## Support
 
 For questions or issues:
-- WhatsApp: +254 700 000 000
-- Email: hello@codecraft.ke
+- WhatsApp: +254716267992
+- Email: briangitau9931@gmai.com
 
 ## Next Steps
 
